@@ -1,6 +1,9 @@
 ﻿namespace DevelopmentChallenge.Data.Classes
 {
-    // Interfaz base que define el comportamiento común de todas las formas geométricas.
+    /// <summary>
+    /// Agregar una nueva forma geometrica implicaria una nueva implementacion de esta interfaz,
+    /// y simplemente agregar la nueva forma a la lista de formas que se usa en el 'reportBuilder'
+    /// </summary>
     public interface IFormaGeometrica
     {
         decimal CalcularArea();
