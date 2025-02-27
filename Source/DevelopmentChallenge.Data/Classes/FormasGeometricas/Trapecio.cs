@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DevelopmentChallenge.Data.Classes
+﻿namespace DevelopmentChallenge.Data.Classes
 {
     // Implementación para Trapecio
     public class Trapecio : IFormaGeometrica
@@ -18,7 +12,6 @@ namespace DevelopmentChallenge.Data.Classes
             _lado1 = lado1;
             _lado2 = lado2;
         }
-        public string Nombre => "Trapecio";
         public decimal CalcularArea() => ((_baseMayor + _baseMenor) / 2) * _altura;
         public decimal CalcularPerimetro() => _baseMayor + _baseMenor + _lado1 + _lado2;
     }

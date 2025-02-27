@@ -13,7 +13,6 @@
 
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 
@@ -21,11 +20,11 @@ namespace DevelopmentChallenge.Data.Classes
 {
     public class ReportBuilder
     {
-        public static string Imprimir(List<IFormaGeometrica> formas, IIdioma idioma)
+        public static string Imprimir(List<FormaResumen> resumen, IIdioma idioma)
         {
             var sb = new StringBuilder();
 
-            if (!formas.Any())
+            if (!resumen.Any())
             {
                 sb.Append("<h1>" + idioma.Empty + "</h1>");
             }
@@ -34,22 +33,13 @@ namespace DevelopmentChallenge.Data.Classes
                 // HEADER
                 sb.Append("<h1>" + idioma.Header + "</h1>");
 
-                var resumen = formas
-                    .GroupBy(f => f.GetType())
-                    .Select(g => new
-                    {
-                        Tipo = g.Key,
-                        Cantidad = g.Count(),
-                        AreaTotal = g.Sum(f => f.CalcularArea()),
-                        PerimetroTotal = g.Sum(f => f.CalcularPerimetro())
-                    });
-
+                // GRUPOS
                 foreach (var item in resumen)
                     sb.Append(ObtenerLinea(item.Cantidad, item.AreaTotal, item.PerimetroTotal, item.Tipo, idioma));
 
                 // FOOTER
                 sb.Append(idioma.Total + ":<br/>");
-                sb.Append($"{resumen.Sum(item => item.Cantidad)} {idioma.Shapes} ");
+                sb.Append($"{resumen.Sum(item => item.Cantidad)} {idioma.Shape} ");
                 sb.Append(string.Format(idioma.Cultura, "{0} {1:#.##} ", idioma.Perimeter, resumen.Sum(item => item.PerimetroTotal)));
                 sb.Append(string.Format(idioma.Cultura, "{0} {1:#.##}", idioma.Area, resumen.Sum(item => item.AreaTotal)));
             }
@@ -64,7 +54,7 @@ namespace DevelopmentChallenge.Data.Classes
                 return string.Format(idioma.Cultura,
                     "{0} {1} | {2} {3:#.##} | {4} {5:#.##} <br/>",
                     cantidad,
-                    idioma.TraducirForma(tipo, cantidad),
+                    idioma.TraducirFormaSingularPlural(tipo, cantidad),
                     idioma.Area, area,
                     idioma.Perimeter, perimetro);
             }

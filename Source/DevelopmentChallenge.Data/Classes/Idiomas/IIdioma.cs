@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DevelopmentChallenge.Data.Classes
 {
@@ -12,10 +8,10 @@ namespace DevelopmentChallenge.Data.Classes
         string Header { get; }
         string Empty { get; }
         string Total { get; }
-        string Shapes { get; }
+        string Shape { get; }
         string Perimeter { get; }
         string Area { get; }
         CultureInfo Cultura { get; }
-        string TraducirForma(Type tipo, int cantidad);
+        string TraducirFormaSingularPlural(Type tipo, int cantidad);
     }
 }

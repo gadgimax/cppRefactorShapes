@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DevelopmentChallenge.Data.Classes
 {
@@ -11,8 +7,7 @@ namespace DevelopmentChallenge.Data.Classes
     {
         private readonly decimal _radio;
         public Circulo(decimal radio) => _radio = radio;
-        public string Nombre => "Círculo";
-        public decimal CalcularArea() => (decimal)Math.PI * (_radio / 2) * (_radio / 2);
-        public decimal CalcularPerimetro() => (decimal)Math.PI * _radio;
+        public decimal CalcularArea() => (decimal)Math.PI * _radio * _radio;
+        public decimal CalcularPerimetro() => 2 * (decimal)Math.PI * _radio;
     }
 }

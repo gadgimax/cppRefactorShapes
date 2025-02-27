@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DevelopmentChallenge.Data.Classes
 {
@@ -12,7 +9,7 @@ namespace DevelopmentChallenge.Data.Classes
         public string Header => "Report delle Forme";
         public string Empty => "Lista vuota di forme!";
         public string Total => "TOTALE";
-        public string Shapes => "forme";
+        public string Shape => "forme";
         public string Perimeter => "Perimetro";
         public string Area => "Area";
         public CultureInfo Cultura => new CultureInfo("it-IT");
@@ -25,10 +22,20 @@ namespace DevelopmentChallenge.Data.Classes
             { nameof(Trapecio), "Trapezio" }
         };
 
-        public string TraducirForma(Type tipo, int cantidad)
+        public string TraducirFormaSingularPlural(Type tipo, int cantidad)
         {
             string nombre = Formas.ContainsKey(tipo.Name) ? Formas[tipo.Name] : tipo.Name;
-            return cantidad == 1 ? nombre : nombre + "i";
+
+            if (cantidad == 1)
+                return nombre;
+
+            if (nombre.EndsWith("io"))
+                return nombre.Substring(0, nombre.Length - 1); // Remove last 'o'
+
+            if (nombre.EndsWith("o"))
+                return nombre.Substring(0, nombre.Length - 1) + "i"; // Replace 'o' with 'i'
+
+            return nombre;
         }
     }
 }
