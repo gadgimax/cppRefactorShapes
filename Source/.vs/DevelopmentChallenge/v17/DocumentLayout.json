@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}|DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}|DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj|solutionrelative:developmentchallenge.data.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\reportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\reportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\idiomas\\italiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\italiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\resumen\\formaresumenbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\resumen\\formaresumenbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\idiomas\\ingles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\ingles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\resumen\\formaresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\resumen\\formaresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\idiomas\\iidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\iidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\idiomas\\castellano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\castellano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\formasgeometricas\\trianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\trianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\formasgeometricas\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\formasgeometricas\\iformageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\iformageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\formasgeometricas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\formasgeometricas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\formasgeometricas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}|DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}|DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj|solutionrelative:developmentchallenge.data.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\formasgeometricas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\formasgeometricas\\iformageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\iformageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\formasgeometricas\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\formasgeometricas\\trianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formasgeometricas\\trianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\idiomas\\castellano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\castellano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\idiomas\\iidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\iidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\idiomas\\ingles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\ingles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\classes\\idiomas\\italiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\idiomas\\italiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DevelopmentChallenge.Data||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -64,72 +72,85 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "FormaResumen.cs",
+              "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumen.cs",
+              "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumen.cs",
+              "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumen.cs",
+              "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:47:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Trapecio.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Trapecio.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Trapecio.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Trapecio.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Trapecio.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAnwBUAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:31:24.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TrianguloEquilatero.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\TrianguloEquilatero.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\TrianguloEquilatero.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\TrianguloEquilatero.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\TrianguloEquilatero.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:31:01.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Circulo.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Circulo.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Circulo.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Circulo.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Circulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:30:41.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Cuadrado.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Cuadrado.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Cuadrado.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Cuadrado.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\Cuadrado.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAnwA8AAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:29:59.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "IFormaGeometrica.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\IFormaGeometrica.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\IFormaGeometrica.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\IFormaGeometrica.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\FormasGeometricas\\IFormaGeometrica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:29:28.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DevelopmentChallenge.Data.Tests",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj",
@@ -140,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "DevelopmentChallenge.Data",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj",
@@ -151,26 +172,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "DataTests.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data.Tests\\DataTests.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data.Tests\\DataTests.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data.Tests\\DataTests.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data.Tests\\DataTests.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAAEQAAAAtAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAYwHkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:14:37.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReportBuilder.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\ReportBuilder.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\ReportBuilder.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\ReportBuilder.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\ReportBuilder.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC0AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:14:37.754Z",
               "EditorCaption": ""
@@ -179,17 +200,17 @@
         },
         {
           "DockedWidth": 128,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Italiano.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\Italiano.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\Idiomas\\Italiano.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\Italiano.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\Idiomas\\Italiano.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvw4AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T17:03:02.126Z",
               "EditorCaption": ""
@@ -197,38 +218,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FormaResumenBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumenBuilder.cs",
+              "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumenBuilder.cs",
+              "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumenBuilder.cs",
+              "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\Resumen\\FormaResumenBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:48:10.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Ingles.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\Ingles.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\Idiomas\\Ingles.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\Ingles.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\Idiomas\\Ingles.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvxAAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T17:03:08.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Castellano.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\Castellano.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\Idiomas\\Castellano.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\Castellano.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\Idiomas\\Castellano.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBEAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T17:02:37.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IIdioma.cs",
               "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\IIdioma.cs",
               "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\Idiomas\\IIdioma.cs",
               "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\Idiomas\\IIdioma.cs",
               "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\Idiomas\\IIdioma.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T17:01:22.007Z",
               "EditorCaption": ""
