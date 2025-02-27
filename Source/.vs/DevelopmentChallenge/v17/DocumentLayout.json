@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}|DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}|DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj|solutionrelative:developmentchallenge.data.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DevelopmentChallenge.Data||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DevelopmentChallenge.Data.Tests||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\developmentchallenge.data\\classes\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|solutionrelative:developmentchallenge.data\\classes\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}|DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data.tests\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21A8F24-C7E0-4E69-B1D7-B424237DC216}|DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj|c:\\users\\goror\\desktop\\developmentchallenge\\source\\developmentchallenge.data\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevelopmentChallenge.Data.Tests",
+              "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj",
+              "RelativeDocumentMoniker": "DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj",
+              "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj",
+              "RelativeToolTip": "DevelopmentChallenge.Data.Tests\\DevelopmentChallenge.Data.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-27T16:14:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevelopmentChallenge.Data",
+              "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj",
+              "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj",
+              "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj",
+              "RelativeToolTip": "DevelopmentChallenge.Data\\DevelopmentChallenge.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-27T16:14:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataTests.cs",
+              "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data.Tests\\DataTests.cs",
+              "RelativeDocumentMoniker": "DevelopmentChallenge.Data.Tests\\DataTests.cs",
+              "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data.Tests\\DataTests.cs",
+              "RelativeToolTip": "DevelopmentChallenge.Data.Tests\\DataTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:14:37.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "DevelopmentChallenge.Data\\Classes\\FormaGeometrica.cs",
+              "ToolTip": "C:\\Users\\goror\\Desktop\\DevelopmentChallenge\\Source\\DevelopmentChallenge.Data\\Classes\\FormaGeometrica.cs",
+              "RelativeToolTip": "DevelopmentChallenge.Data\\Classes\\FormaGeometrica.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwFEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:14:37.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
