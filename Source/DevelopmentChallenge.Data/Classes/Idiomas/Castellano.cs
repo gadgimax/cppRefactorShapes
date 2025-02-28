@@ -6,6 +6,13 @@ namespace DevelopmentChallenge.Data.Classes
 {
     public class Castellano : IIdioma
     {
+        private readonly IShapeTranslator _translator;
+
+        public Castellano(IShapeTranslator translator)
+        {
+            _translator = translator;
+        }
+
         public string Header => "Reporte de Formas";
         public string Empty => "Lista vacía de formas!";
         public string Total => "TOTAL";
@@ -14,17 +21,13 @@ namespace DevelopmentChallenge.Data.Classes
         public string Area => "Área";
         public CultureInfo Cultura => new CultureInfo("es-AR");
 
-        private static readonly Dictionary<string, string> Formas = new Dictionary<string, string>
-        {
-            { nameof(Cuadrado), "Cuadrado" },
-            { nameof(Circulo), "Círculo" },
-            { nameof(TrianguloEquilatero), "Triángulo" },
-            { nameof(Trapecio), "Trapecio" }
-        };
-
         public string TraducirFormaSingularPlural(Type tipo, int cantidad)
         {
-            string nombre = Formas.ContainsKey(tipo.Name) ? Formas[tipo.Name] : tipo.Name;
+            string nombre = _translator.GetShapeName(tipo);
+
+            if (cantidad == 1)
+                return nombre;
+
             return cantidad == 1 ? nombre : nombre + "s";
         }
     }

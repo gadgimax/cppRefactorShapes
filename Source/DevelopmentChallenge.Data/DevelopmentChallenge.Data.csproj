@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Idiomas\Translations\DBShapeTransalator.cs" />
+    <Compile Include="Classes\Idiomas\Translations\IShapeTranslator.cs" />
+    <Compile Include="Classes\Idiomas\Translations\DefaultShapeTranslator.cs" />
     <Compile Include="Classes\ReportBuilder.cs" />
     <Compile Include="Classes\FormasGeometricas\Circulo.cs" />
     <Compile Include="Classes\FormasGeometricas\Cuadrado.cs" />

@@ -16,6 +16,12 @@ namespace DevelopmentChallenge.Data.Classes
         string Perimeter { get; }
         string Area { get; }
         CultureInfo Cultura { get; }
+
+        /// <summary>
+        /// La idea detras de esta funcion es mantener algo de logica 'custom' 
+        /// en cada clase que representa un lenguage. En caso contrario, los diferentes
+        /// lenguages podrian ser representados simplemente como datos, sin una logica asociada.
+        /// </summary>
         string TraducirFormaSingularPlural(Type tipo, int cantidad);
     }
 }

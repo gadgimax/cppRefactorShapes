@@ -26,12 +26,12 @@ namespace DevelopmentChallenge.Data.Classes
 
             if (!resumen.Any())
             {
-                sb.Append("<h1>" + idioma.Empty + "</h1>");
+                sb.Append(string.Format(idioma.Cultura, "<h1>{0}</h1>", idioma.Empty));
             }
             else
             {
                 // HEADER
-                sb.Append("<h1>" + idioma.Header + "</h1>");
+                sb.Append(string.Format(idioma.Cultura, "<h1>{0}</h1>", idioma.Header));
 
                 // GRUPOS
                 foreach (var item in resumen)

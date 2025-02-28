@@ -1,11 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
 
 namespace DevelopmentChallenge.Data.Classes
 {
     public class Italiano : IIdioma
     {
+        private readonly IShapeTranslator _translator;
+
+        public Italiano(IShapeTranslator translator)
+        {
+            _translator = translator;
+        }
+
         public string Header => "Report delle Forme";
         public string Empty => "Lista vuota di forme!";
         public string Total => "TOTALE";
@@ -14,17 +20,9 @@ namespace DevelopmentChallenge.Data.Classes
         public string Area => "Area";
         public CultureInfo Cultura => new CultureInfo("it-IT");
 
-        private static readonly Dictionary<string, string> Formas = new Dictionary<string, string>
-        {
-            { nameof(Cuadrado), "Quadrato" },
-            { nameof(Circulo), "Cerchio" },
-            { nameof(TrianguloEquilatero), "Triangolo" },
-            { nameof(Trapecio), "Trapezio" }
-        };
-
         public string TraducirFormaSingularPlural(Type tipo, int cantidad)
         {
-            string nombre = Formas.ContainsKey(tipo.Name) ? Formas[tipo.Name] : tipo.Name;
+            string nombre = _translator.GetShapeName(tipo);
 
             if (cantidad == 1)
                 return nombre;
